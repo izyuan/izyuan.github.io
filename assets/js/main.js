@@ -271,3 +271,4 @@ document.querySelector('.close-popup').addEventListener('click', function(e) {
     popup.style.display = 'none';
     document.body.classList.remove('no-scroll'); // Re-enable scrolling on the main page
 });
+
