@@ -1306,7 +1306,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-image: url("images/overlay.png"), url("images/test2.jpg");
 		background-repeat: repeat, no-repeat;
 		background-size: auto, 100% 100%;
 		background-attachment: fixed;
@@ -1327,7 +1327,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 300;
-		color: #726d64;
+		color: #c6c1b9	;
 		font-size: 20pt;
 		line-height: 1.75em;
 	}
@@ -1552,7 +1552,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: 100%
 		}
 
 		.image.fit {
@@ -1778,7 +1778,7 @@ input, select, textarea {
 		#nav a {
 			position: relative;
 			display: inline-block;
-			color: #201c1c;
+			color: #e6af9e;
 			width: 1em;
 			height: 1em;
 			line-height: 0.9em;
@@ -2048,7 +2048,7 @@ input, select, textarea {
 						width: 2.75em;
 						height: 2.75em;
 						background: #000;
-						background: rgba(0, 0, 0, 0.75);
+						background: rgba(0, 0, 0, 	0.75);
 						color: #ffffff;
 						text-align: center;
 						line-height: 2.75em;
@@ -2296,5 +2296,4 @@ input, select, textarea {
     width: 100%; /* Ensure the width is also locked */
     position: fixed; /* Prevent scrolling on iOS devices */
 }
-
 
